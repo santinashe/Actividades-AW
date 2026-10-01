@@ -16,6 +16,11 @@ body {
     background-color: #f4f7f9;
 }
 
+header {
+    position: sticky;
+    top: 0;
+}
+
 nav {
     display: flex;
     align-items: center;
